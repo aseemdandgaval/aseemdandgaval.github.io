@@ -16,7 +16,7 @@ The final result is images of abstract art after training for 500 Epochs. ([GitH
 *   Made a CNN classifier that classifies between 23 breeds of casts and dogs.
 *   The result is a classifier model made by transfer learning with an accuracy of 85%.
 *   The data set is made by me completely from scratch by web scraping and consists
-of 3800 image. (Dataset) ([GitHub](https://github.githubassets.com/images/icons/emoji/octocat.png))
+of 3800 image. ([Dataset](https://www.kaggle.com/aseemdandgaval/23-pet-breeds-image-classification))
 
 ### Exploratory Data Analysis on Industry Salaries
 
@@ -25,4 +25,4 @@ the data industry in India (Data Scientists, Machine Learning Engineesrs etc).
 *  Cleaned and pre-processed a real world dataset using Pandas and NumPy.
 *  Plotted graphs and charts using Matplotlib/ Seaborn for easier visualization.
 Asked and answered important questions about the data to gather insight and
-make inferences. (GitHub).
+make inferences. ([GitHub](https://github.com/aseemdandgaval/EDA-Salaries))
