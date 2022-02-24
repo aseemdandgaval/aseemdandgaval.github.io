@@ -1,28 +1,22 @@
----
-layout: default
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# **About Me**
 
 I am a dedicated Computer Science engineering student currently in my third year. I am fascinated by Data Science, Machine and Deep Learning, these are my areas of interest and skill. I am always ready to learn and better myself with a positive and strong mindset
 
-
-## Projects
+# **Projects**
 
 ### GalleryGAN
 
 * Made and trained a Generative Adverserial Network (GAN) that Generates images
 of Abstract Art from scratch with PyTorch
 * Trained on the Gallery AA data set that contains picture of abstract images.
-The final result is images of abstract art after training for 500 Epochs. (GitHub)
+The final result is images of abstract art after training for 500 Epochs. ([GitHub](https://github.com/aseemdandgaval/GalleryGAN))
 
 ### Pet Breed Classifier
 
 *   Made a CNN classifier that classifies between 23 breeds of casts and dogs.
 *   The result is a classifier model made by transfer learning with an accuracy of 85%.
 *   The data set is made by me completely from scratch by web scraping and consists
-of 3800 image. (Dataset) (GitHub)
+of 3800 image. (Dataset) ([GitHub](https://github.githubassets.com/images/icons/emoji/octocat.png))
 
 ### Exploratory Data Analysis on Industry Salaries
 
@@ -33,7 +27,8 @@ the data industry in India (Data Scientists, Machine Learning Engineesrs etc).
 Asked and answered important questions about the data to gather insight and
 make inferences. (GitHub).
 
-###### Header 6
+
+# Header 6
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
