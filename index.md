@@ -10,38 +10,29 @@ I am a dedicated Computer Science engineering student currently in my third year
 
 
 ## Projects
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+### GALLERYGAN
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+* Made and trained a Generative Adverserial Network (GAN) that Generates images
+of Abstract Art from scratch with PyTorch
+* Trained on the Gallery AA data set that contains picture of abstract images.
+The final result is images of abstract art after training for 500 Epochs. (GitHub)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+#### Pet Breed Classifier
 
-#### Header 4
+*   Made a CNN classifier that classifies between 23 breeds of casts and dogs.
+*   The result is a classifier model made by transfer learning with an accuracy of 85%.
+*   The data set is made by me completely from scratch by web scraping and consists
+of 3800 image. (Dataset) (GitHub)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+##### Exploratory Data Analysis on Industry Salaries
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+* Performed an Exploratory Data Analysis on the salaries of working professionals in
+the data industry in India (Data Scientists, Machine Learning Engineesrs etc).
+2.  Cleaned and pre-processed a real world dataset using Pandas and NumPy.
+3.  Plotted graphs and charts using Matplotlib/ Seaborn for easier visualization.
+Asked and answered important questions about the data to gather insight and
+make inferences. (GitHub).
 
 ###### Header 6
 
