@@ -2,6 +2,16 @@
 
 I am a dedicated Computer Science engineering student currently in my third year. I am fascinated by Data Science, Machine and Deep Learning, these are my areas of interest and skill. I am always ready to learn and better myself with a positive and strong mindset
 
+# **Work Experience**
+
+### CureSkin | Computer Vision Intern
+
+* Tested the best approaches from academic papers on a real world dataset for the
+given end-to-end project.
+* Automate generation of image masks and deploy the model using a web app on a
+Linux server.
+
+
 # **Projects**
 
 ### GalleryGAN
