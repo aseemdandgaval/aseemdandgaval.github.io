@@ -8,9 +8,15 @@ I’m passionate about developing products that leverage Machine Learning and Da
 
 # **✦ Education**
 
-###  | University of California San Diego | Sep. 2023 - Present |
-#### | Master of Science in Data Science  | La Jolla, CA        |
-     |:---                                |                ---: |
+###   **University of California San Diego** | *Sep. 2023 - Present*
+####  **Master of Science in Data Science**  | La Jolla, CA        
+
+<p style="text-align:left;">
+    **University of California San Diego**
+    <span style="float:right;">
+        *Sep. 2023 - Present*
+    </span>
+</p>
 
 * **Courses:** Probability and Statistics for Data Sci, Numerical Linear Algebra, Data Management for Data Sci,
 Machine Learning, Data Ethics and Fairness, Statistical Models
