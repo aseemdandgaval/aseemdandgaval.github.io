@@ -12,7 +12,7 @@ I’m passionate about developing products that leverage Machine Learning and Da
 ####  **Master of Science in Data Science**  | La Jolla, CA        
 
 <p style="text-align:left;">
-    **University of California San Diego**
+    <h3><b>University of California San Diego</b></h3>
     <span style="float:right;">
         *Sep. 2023 - Present*
     </span>
@@ -60,14 +60,14 @@ by 50%
 ### Food Calorie Estimator 
 * Implemented an object detection model (YOLOv5) for 20 different food items with 98.9% accuracy.
 * Calculated calories of food items by finding it’s mass and volume occupied in bounding cuboid using the reference
-object in two optical views with food items having less than 10% error with respect to ground truth.[GitHub](https://github.com/aseemdandgaval/Food-Calorie-Estimator))
+object in two optical views with food items having less than 10% error with respect to ground truth. [GitHub]((https://github.com/aseemdandgaval/Food-Calorie-Estimator))
 <br/><br/>
 
 
 ### Harry Potter Analysis 
 * Extracted and filtered relationships of all characters from Harry Potter books using NER.
 * Created network graphs, identified groups of characters using community detection, and tracked the importance
-of all characters over the entire series of books. [GitHub](https://github.com/aseemdandgaval/Harry-Potter-Analysis))
+of all characters over the entire series of books. [GitHub]((https://github.com/aseemdandgaval/Harry-Potter-Analysis))
 <br/><br/>
 
 
@@ -87,7 +87,7 @@ salary gap between locations, salary ranges as per experience and more. ([GitHub
 of 3800 image. ([Dataset](https://www.kaggle.com/aseemdandgaval/23-pet-breeds-image-classification))
 
 <br/><br/>
-<br/><br/>
+
 
 
 # **✦ Technical Skills**
