@@ -21,10 +21,8 @@ by 50%
 
 ### GalleryGAN
 
-* Made and trained a Generative Adverserial Network (GAN) that Generates images
-of Abstract Art from scratch with PyTorch
-* Trained on the Gallery AA data set that contains picture of abstract images.
-The final result is images of abstract art after training for 500 Epochs. ([GitHub](https://github.com/aseemdandgaval/GalleryGAN))
+• Developed a Generative Adversarial Network (GAN) that generates images of Abstract Art from scratch.
+• Final Images of art are generated from Gaussian noise and are of size 512x512 and 8 bit color. ([GitHub](https://github.com/aseemdandgaval/GalleryGAN))
 
 ### Pet Breed Classifier
 
