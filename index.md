@@ -18,6 +18,9 @@ I’m passionate about developing products that leverage Machine Learning and Da
     </span>
 </p>
 
+<span style="font-size: larger; font-weight: bold; text-align: left;">University of California San Diego</span> <span style="font-size: smaller; font-style: italic; text-align: right; float: right;">Sep. 2023 - Present</span>
+
+
 * **Courses:** Probability and Statistics for Data Sci, Numerical Linear Algebra, Data Management for Data Sci,
 Machine Learning, Data Ethics and Fairness, Statistical Models
 
