@@ -2,47 +2,25 @@
 
 Hello! My name is Aseem Dandgaval and I'm an MS in Data Science grad at UC San Diego.
 I’m passionate about developing products that leverage Machine Learning and Data Science to provide solutions for users. I am always ready to learn and better myself with a positive and strong mindset. If you're at this page, lets connect!
-
 <br/>
 
 
 # **✦ Education**
 
-###   **University of California San Diego** | *Sep. 2023 - Present*
-####  **Master of Science in Data Science**  | La Jolla, CA        
-
-<span style="font-size: larger; font-weight: bold; text-align:left;">
-    University of California San Diego</span>
-<span style=" font-style: italic; text-align: right; float: right;">
-    Sep. 2023 - Present</span>
-
-<span style="font-size: larger; font-weight: bold; text-align:left;">
-    Master of Science in Data Science</span>
-<span style=" font-style: italic; text-align: right; float: right;">
-    La Jolla, CA</span>
-
+###   **University of California San Diego** | *MS in Data Science*  
 * **Courses:** Probability and Statistics for Data Sci, Numerical Linear Algebra, Data Management for Data Sci,
 Machine Learning, Data Ethics and Fairness, Statistical Models
 
 
-### International Institute of Information Technology, Pune <div style="text-align: right"> Aug. 2019 - Jun. 2023 </div>
-#### Bachelor of Engineering in Computer Engineering, Honors in AI/ML  <div style="text-align: right"> Pune, India </div>
+###   **International Institute of Information Technology, Pune** | *BE in Computer Engineering (Honors in AI-ML)*
 * **GPA:** 8.59/10
 * **Relevant Courses:** Computational Statistics, Machine Learning, Deep Learning, Natural Language Processing, Artificial Intelligence, Business Intelligence, Data Science and Big Data Analytics, Data Structures and Algorithms.
-
 <br/>
-
 
 
 # **✦ Work Experience**
 
-## **CureSkin** 
-
-<span style="font-size: larger; font-weight: bold; text-align:left;">
-    Computer Vision Intern</span>
-<span style=" font-style: italic; text-align: right; float: right;">
-    Apr. 2022 - Jan. 2023</span>
-
+###   **CureSkin** | *Computer Vision Intern*
 * Tested and applied various state-of-the-art approaches from academic papers on a real world dataset for Gener-
 ative Facial Inpainting and Face Spatial Correspondence Projects.
 * Designed and implemented custom RMSE and MAE metrics for spatial model architectures to benchmark
@@ -52,9 +30,7 @@ graphs and custom metric calculations over the entire dataset using Python scrip
 * Automated image annotation/labeling and mask generation tasks with OpenCV, PIL and Matplotlib.
 * Deployed models using Flask in Linux servers and optimized deployment pipelines by reducing time complexity
 by 50%
-
 <br/>
-
 
 
 # **✦ Projects**
@@ -67,14 +43,14 @@ by 50%
 ### Food Calorie Estimator 
 * Implemented an object detection model (YOLOv5) for 20 different food items with 98.9% accuracy.
 * Calculated calories of food items by finding it’s mass and volume occupied in bounding cuboid using the reference
-object in two optical views with food items having less than 10% error with respect to ground truth. [GitHub]((https://github.com/aseemdandgaval/Food-Calorie-Estimator))
+object in two optical views with food items having less than 10% error with respect to ground truth. ([GitHub](https://github.com/aseemdandgaval/Food-Calorie-Estimator))
 <br/>
 
 
 ### Harry Potter Analysis 
 * Extracted and filtered relationships of all characters from Harry Potter books using NER.
 * Created network graphs, identified groups of characters using community detection, and tracked the importance
-of all characters over the entire series of books. [GitHub]((https://github.com/aseemdandgaval/Harry-Potter-Analysis))
+of all characters over the entire series of books. ([GitHub](https://github.com/aseemdandgaval/Harry-Potter-Analysis))
 <br/>
 
 
@@ -96,9 +72,9 @@ of 3800 image. ([Dataset](https://www.kaggle.com/aseemdandgaval/23-pet-breeds-im
 
 
 # **✦ Technical Skills**
-* Languages:             Python, C++, SQL, HTML, CSS, 
-* Libraries/Frameworks:  PyTorch, fast.ai, Scikit-Learn, Pandas, Matplotlib, Seaborn, OpenCV, Flask
-* Tools/Platforms:       Git, Heroku, Terminal, Linux
+| **Languages:**             |Python, C++, SQL, HTML, CSS, |
+| **Libraries/Frameworks:**  |PyTorch, fast.ai, Scikit-Learn, Pandas, Matplotlib, Seaborn, OpenCV, Flask|
+| **Tools/Platforms:**       |Git, Heroku, Terminal, Linux |
 <br/>
 
 
