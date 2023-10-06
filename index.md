@@ -11,13 +11,15 @@ I’m passionate about developing products that leverage Machine Learning and Da
 ###   **University of California San Diego** | *Sep. 2023 - Present*
 ####  **Master of Science in Data Science**  | La Jolla, CA        
 
-<span style="font-size: larger;font-weight: bold; text-align:left;">
-    University of California San Diego
-</span>
-<span style="font-size: smaller; font-style: italic; text-align: right; float: right;">
-    Sep. 2023 - Present
-</span>
+<span style="font-size: larger; font-weight: bold; text-align:left;">
+    University of California San Diego</span>
+<span style=" font-style: italic; text-align: right; float: right;">
+    Sep. 2023 - Present</span>
 
+<span style="font-size: larger; font-weight: bold; text-align:left;">
+    Master of Science in Data Science</span>
+<span style=" font-style: italic; text-align: right; float: right;">
+    La Jolla, CA</span>
 
 * **Courses:** Probability and Statistics for Data Sci, Numerical Linear Algebra, Data Management for Data Sci,
 Machine Learning, Data Ethics and Fairness, Statistical Models
@@ -35,7 +37,12 @@ Machine Learning, Data Ethics and Fairness, Statistical Models
 # **✦ Work Experience**
 
 ## **CureSkin** 
-### **Computer Vision Intern** <div style="text-align: right"> Apr. 2022 - Jan. 2023 </div>
+
+<span style="font-size: larger; font-weight: bold; text-align:left;">
+    Computer Vision Intern</span>
+<span style=" font-style: italic; text-align: right; float: right;">
+    Apr. 2022 - Jan. 2023</span>
+
 * Tested and applied various state-of-the-art approaches from academic papers on a real world dataset for Gener-
 ative Facial Inpainting and Face Spatial Correspondence Projects.
 * Designed and implemented custom RMSE and MAE metrics for spatial model architectures to benchmark
@@ -85,17 +92,13 @@ salary gap between locations, salary ranges as per experience and more. ([GitHub
 *   The result is a classifier model made by transfer learning with an accuracy of 85%.
 *   The data set is made by me completely from scratch by web scraping and consists
 of 3800 image. ([Dataset](https://www.kaggle.com/aseemdandgaval/23-pet-breeds-image-classification))
-
 <br/>
-
 
 
 # **✦ Technical Skills**
 * Languages:             Python, C++, SQL, HTML, CSS, 
 * Libraries/Frameworks:  PyTorch, fast.ai, Scikit-Learn, Pandas, Matplotlib, Seaborn, OpenCV, Flask
 * Tools/Platforms:       Git, Heroku, Terminal, Linux
-
-
 <br/>
 
 
