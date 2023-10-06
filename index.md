@@ -8,12 +8,14 @@ I’m passionate about developing products that leverage Machine Learning and Da
 
 # **Education**
 
-###   **University of California San Diego** | *MS in Data Science*  
+### **University of California San Diego** 
+### *MS in Data Science*  
 * **Courses:** Probability and Statistics for Data Sci, Numerical Linear Algebra, Data Management for Data Sci,
 Machine Learning, Data Ethics and Fairness, Statistical Models
 
 
-###   **International Institute of Information Technology, Pune** | *BE in Computer Engineering (Honors in AI-ML)*
+### **International Institute of Information Technology, Pune** 
+### *BE in Computer Engineering (Honors in AI-ML)*
 * **GPA:** 8.59/10
 * **Relevant Courses:** Computational Statistics, Machine Learning, Deep Learning, Natural Language Processing, Artificial Intelligence, Business Intelligence, Data Science and Big Data Analytics, Data Structures and Algorithms.
 
