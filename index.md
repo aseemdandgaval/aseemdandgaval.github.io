@@ -71,14 +71,16 @@ salary gap between locations, salary ranges as per experience and more. ([GitHub
 *   The result is a classifier model made by transfer learning with an accuracy of 85%.
 *   The data set is made by me completely from scratch by web scraping and consists
 of 3800 image. ([Dataset](https://www.kaggle.com/aseemdandgaval/23-pet-breeds-image-classification))
+
 <br/>
 
 
-# **Technical Skills**
+## **Technical Skills**
 
 * **Languages:**             Python, C++, SQL, HTML, CSS, 
 * **Libraries/Frameworks:**  PyTorch, fast.ai, Scikit-Learn, Pandas, Matplotlib, Seaborn, OpenCV, Flask 
 * **Tools/Platforms:**       Git, Heroku, Terminal, Linux 
+
 <br/>
 
 
