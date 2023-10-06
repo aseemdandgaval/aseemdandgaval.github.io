@@ -2,6 +2,7 @@
 
 Hello! My name is Aseem Dandgaval and I'm an MS in Data Science grad at UC San Diego.
 I’m passionate about developing products that leverage Machine Learning and Data Science to provide solutions for users. I am always ready to learn and better myself with a positive and strong mindset. If you're at this page, lets connect!
+
 <br/>
 
 
@@ -15,6 +16,7 @@ Machine Learning, Data Ethics and Fairness, Statistical Models
 ###   **International Institute of Information Technology, Pune** | *BE in Computer Engineering (Honors in AI-ML)*
 * **GPA:** 8.59/10
 * **Relevant Courses:** Computational Statistics, Machine Learning, Deep Learning, Natural Language Processing, Artificial Intelligence, Business Intelligence, Data Science and Big Data Analytics, Data Structures and Algorithms.
+
 <br/>
 
 
@@ -30,6 +32,7 @@ graphs and custom metric calculations over the entire dataset using Python scrip
 * Automated image annotation/labeling and mask generation tasks with OpenCV, PIL and Matplotlib.
 * Deployed models using Flask in Linux servers and optimized deployment pipelines by reducing time complexity
 by 50%
+
 <br/>
 
 
@@ -72,9 +75,10 @@ of 3800 image. ([Dataset](https://www.kaggle.com/aseemdandgaval/23-pet-breeds-im
 
 
 # **✦ Technical Skills**
-| **Languages:**             |Python, C++, SQL, HTML, CSS, |
-| **Libraries/Frameworks:**  |PyTorch, fast.ai, Scikit-Learn, Pandas, Matplotlib, Seaborn, OpenCV, Flask|
-| **Tools/Platforms:**       |Git, Heroku, Terminal, Linux |
+| -------------------------- | ----------------------------- |
+| **Languages:**             | Python, C++, SQL, HTML, CSS, |
+| **Libraries/Frameworks:**  | PyTorch, fast.ai, Scikit-Learn, Pandas, Matplotlib, Seaborn, OpenCV, Flask |
+| **Tools/Platforms:**       | Git, Heroku, Terminal, Linux |
 <br/>
 
 
