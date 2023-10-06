@@ -50,8 +50,8 @@ by 50%
 
 
 ### Food Calorie Estimator 
-• Implemented an object detection model (YOLOv5) for 20 different food items with 98.9% accuracy.
-• Calculated calories of food items by finding it’s mass and volume occupied in bounding cuboid using the reference
+* Implemented an object detection model (YOLOv5) for 20 different food items with 98.9% accuracy.
+* Calculated calories of food items by finding it’s mass and volume occupied in bounding cuboid using the reference
 object in two optical views with food items having less than 10% error with respect to ground truth.[GitHub](https://github.com/aseemdandgaval/Food-Calorie-Estimator))
 <br/><br/>
 
