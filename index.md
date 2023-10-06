@@ -21,7 +21,7 @@ by 50%
 
 ## **Computer Vision** 
 
-### GalleryGAN
+### **GalleryGAN**  — Python, PyTorch
 
 • Developed a Generative Adversarial Network (GAN) that generates images of Abstract Art from scratch.
 • Final Images of art are generated from Gaussian noise and are of size 512x512 and 8 bit color. ([GitHub](https://github.com/aseemdandgaval/GalleryGAN))
@@ -38,6 +38,9 @@ of 3800 image. ([Dataset](https://www.kaggle.com/aseemdandgaval/23-pet-breeds-im
 * Performed an Exploratory Data Analysis on the salaries of working professionals in
 the data industry in India (Data Scientists, Machine Learning Engineesrs etc).
 *  Cleaned and pre-processed a real world dataset using Pandas and NumPy.
-*  Plotted graphs and charts using Matplotlib/ Seaborn for easier visualization.
-Asked and answered important questions about the data to gather insight and
-make inferences. ([GitHub](https://github.com/aseemdandgaval/EDA-Salaries))
+*  Developed visual graphs based on sub-domains, years of experience, employers and inferred patterns such as
+salary gap between locations, salary ranges as per experience and more. ([GitHub](https://github.com/aseemdandgaval/EDA-Salaries))
+
+Harry Potter Analysis — Python, SpaCy, NetworkX (Github)
+• Extracted and filtered relationships of all characters from Harry Potter books using NER.
+• Created network graphs, identified groups of chara
