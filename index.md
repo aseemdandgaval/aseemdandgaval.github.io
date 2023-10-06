@@ -14,7 +14,7 @@ I’m passionate about developing products that leverage Machine Learning and Da
 <p style="text-align:left;">
     <h3><b>University of California San Diego</b></h3>
     <span style="float:right;">
-        *Sep. 2023 - Present*
+       <h2><b>Sep. 2023 - Present</b></h2>
     </span>
 </p>
 
