@@ -4,23 +4,25 @@ Hello! My name is Aseem Dandgaval and I'm an MS in Data Science grad at UC San D
 I’m passionate about developing products that leverage Machine Learning and Data Science to provide solutions for users. I am always ready to learn and better myself with a positive and strong mindset. If you're at this page, lets connect!
 
 <br/><br/>
-<br/><br/>
+
 
 # **✦ Education**
 
-### University of California San Diego <p style="text-align: right;"> Sep. 2023 - Present </p>
- Master of Science in Data Science <p style="text-align: right;"> La Jolla, CA </p>
-* Courses: Probability and Statistics for Data Sci, Numerical Linear Algebra, Data Management for Data Sci,
+###  | University of California San Diego | Sep. 2023 - Present |
+#### | Master of Science in Data Science  | La Jolla, CA        |
+     |:---                                |                ---: |
+
+* **Courses:** Probability and Statistics for Data Sci, Numerical Linear Algebra, Data Management for Data Sci,
 Machine Learning, Data Ethics and Fairness, Statistical Models
 
 
 ### International Institute of Information Technology, Pune <div style="text-align: right"> Aug. 2019 - Jun. 2023 </div>
 #### Bachelor of Engineering in Computer Engineering, Honors in AI/ML  <div style="text-align: right"> Pune, India </div>
-* GPA: 8.59/10
-* Relevant Courses: Computational Statistics, Machine Learning, Deep Learning, Natural Language Processing, Artificial Intelligence, Business Intelligence, Data Science and Big Data Analytics, Data Structures and Algorithms.
+* **GPA:** 8.59/10
+* **Relevant Courses:** Computational Statistics, Machine Learning, Deep Learning, Natural Language Processing, Artificial Intelligence, Business Intelligence, Data Science and Big Data Analytics, Data Structures and Algorithms.
 
 <br/><br/>
-<br/><br/>
+
 
 
 # **✦ Work Experience**
@@ -38,7 +40,7 @@ graphs and custom metric calculations over the entire dataset using Python scrip
 by 50%
 
 <br/><br/>
-<br/><br/>
+
 
 
 # **✦ Projects**
