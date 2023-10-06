@@ -1,7 +1,7 @@
 # **About Me**
 
 Hello! My name is Aseem Dandgaval and I'm an MS in Data Science grad at UC San Diego.
-I’m passionate about developing products that leverage Machine Learning and Data Science to provide solutions for users. I am always ready to learn and better myself with a positive and strong mindset. If you're at this page, lets connect!
+I’m passionate about developing products that leverage Machine Learning and Data Science to provide impactful solutions for users. I am open to working on uncharted challenges and am always ready to learn with a positive and strong mindset. If you're at this page, lets connect!
 
 <br/>
 
