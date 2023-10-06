@@ -4,7 +4,8 @@ I am a dedicated Computer Science engineering student currently in my third year
 
 # **Work Experience**
 
-### CureSkin | Computer Vision Intern  ### Apr. 2022 - Jan. 2023
+### CureSkin | Computer Vision Intern 
+Apr. 2022 - Jan. 2023
 
 * Tested and applied various state-of-the-art approaches from academic papers on a real world dataset for Gener-
 ative Facial Inpainting and Face Spatial Correspondence Projects.
@@ -23,8 +24,8 @@ by 50%
 
 ### **GalleryGAN**  — Python, PyTorch
 
-• Developed a Generative Adversarial Network (GAN) that generates images of Abstract Art from scratch.
-• Final Images of art are generated from Gaussian noise and are of size 512x512 and 8 bit color. ([GitHub](https://github.com/aseemdandgaval/GalleryGAN))
+* Developed a Generative Adversarial Network (GAN) that generates images of Abstract Art from scratch.
+* Final Images of art are generated from Gaussian noise and are of size 512x512 and 8 bit color. ([GitHub](https://github.com/aseemdandgaval/GalleryGAN))
 
 ### Pet Breed Classifier
 
