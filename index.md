@@ -6,10 +6,15 @@ I am a dedicated Computer Science engineering student currently in my third year
 
 ### CureSkin | Computer Vision Intern
 
-* Tested the best approaches from academic papers on a real world dataset for the
-given end-to-end project.
-* Automate generation of image masks and deploy the model using a web app on a
-Linux server.
+* Tested and applied various state-of-the-art approaches from academic papers on a real world dataset for Gener-
+ative Facial Inpainting and Face Spatial Correspondence Projects.
+* Designed and implemented custom RMSE and MAE metrics for spatial model architectures to benchmark
+performance and determine the best fit for the data.
+* Helped make important data driven decisions about the project’s direction through testing by visualization via
+graphs and custom metric calculations over the entire dataset using Python scripts.
+* Automated image annotation/labeling and mask generation tasks with OpenCV, PIL and Matplotlib.
+* Deployed models using Flask in Linux servers and optimized deployment pipelines by reducing time complexity
+by 50%
 
 
 # **Projects**
