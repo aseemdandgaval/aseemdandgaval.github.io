@@ -4,7 +4,7 @@ I am a dedicated Computer Science engineering student currently in my third year
 
 # **Work Experience**
 
-### CureSkin | Computer Vision Intern
+### CureSkin | Computer Vision Intern  ### Apr. 2022 - Jan. 2023
 
 * Tested and applied various state-of-the-art approaches from academic papers on a real world dataset for Gener-
 ative Facial Inpainting and Face Spatial Correspondence Projects.
@@ -18,6 +18,8 @@ by 50%
 
 
 # **Projects**
+
+## **Computer Vision** 
 
 ### GalleryGAN
 
