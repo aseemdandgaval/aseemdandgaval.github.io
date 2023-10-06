@@ -1,4 +1,4 @@
-## **✦ About Me**
+## **About Me**
 
 Hello! My name is Aseem Dandgaval and I'm an MS in Data Science grad at UC San Diego.
 I’m passionate about developing products that leverage Machine Learning and Data Science to provide solutions for users. I am always ready to learn and better myself with a positive and strong mindset. If you're at this page, lets connect!
@@ -6,7 +6,7 @@ I’m passionate about developing products that leverage Machine Learning and Da
 <br/>
 
 
-## **✦ Education**
+## **Education**
 
 ###   **University of California San Diego** | *MS in Data Science*  
 * **Courses:** Probability and Statistics for Data Sci, Numerical Linear Algebra, Data Management for Data Sci,
@@ -20,7 +20,7 @@ Machine Learning, Data Ethics and Fairness, Statistical Models
 <br/>
 
 
-## **✦ Work Experience**
+## **Work Experience**
 
 ###   **CureSkin** | *Computer Vision Intern*
 * Tested and applied various state-of-the-art approaches from academic papers on a real world dataset for Gener-
@@ -36,7 +36,7 @@ by 50%
 <br/>
 
 
-## **✦ Projects**
+## **Projects**
 
 ### GalleryGAN
 * Developed a Generative Adversarial Network (GAN) that generates images of Abstract Art from scratch.
@@ -74,7 +74,7 @@ of 3800 image. ([Dataset](https://www.kaggle.com/aseemdandgaval/23-pet-breeds-im
 <br/>
 
 
-# **✦ Technical Skills**
+# **Technical Skills**
 
 * **Languages:**             Python, C++, SQL, HTML, CSS, 
 * **Libraries/Frameworks:**  PyTorch, fast.ai, Scikit-Learn, Pandas, Matplotlib, Seaborn, OpenCV, Flask 
@@ -82,6 +82,6 @@ of 3800 image. ([Dataset](https://www.kaggle.com/aseemdandgaval/23-pet-breeds-im
 <br/>
 
 
-## **✦ Certifications**
+## **Certifications**
 
 
