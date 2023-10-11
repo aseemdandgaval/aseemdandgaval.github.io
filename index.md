@@ -59,6 +59,11 @@ of all characters over the entire series of books. ([GitHub](https://github.com/
 <br/>
 
 
+### Fraud Detection
+* Cleaned, pre-processed and analyzed over 6 million rows of banking transactions.
+*  Revealed the most important features that help detect fraudulent transactions and tested several ML models to get an F-1 score of 76.16 on a highly skewed dataset. ([GitHub](https://github.com/aseemdandgaval/fraud_detection))
+<br/>
+
 ### Exploratory Data Analysis on Industry Salaries
 * Performed an Exploratory Data Analysis on the salaries of working professionals in
 the data industry in India (Data Scientists, Machine Learning Engineesrs etc).
