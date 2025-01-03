@@ -16,6 +16,9 @@ sidebar:
   - name: LinkedIn
     icon: <i class="fa-brands fa-linkedin"></i>
     link: https://www.linkedin.com/in/aseem-dandgaval-a9624b203/
+  - name: Blog
+    icon: <i class="fa-solid fa-pen"></i>
+    link: https://medium.com/@aseemdandgaval1/mastering-memory-optimization-in-ml-systems-a-deep-dive-into-techniques-for-large-models-2f9438ec02d7
 
 # https://github.com/github/pages-gem/issues/399#issuecomment-301827749
 # When running locally, we run into the following error —
