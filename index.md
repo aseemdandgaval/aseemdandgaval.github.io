@@ -6,7 +6,7 @@ I’m passionate about building impactful solutions through ML at scale. I am op
 <br/>
 
 # **Blog**
-** Mastering Memory Optimization in ML Systems:** [Article](https://medium.com/@aseemdandgaval1/mastering-memory-optimization-in-ml-systems-a-deep-dive-into-techniques-for-large-models-2f9438ec02d7)
+**Mastering Memory Optimization in ML Systems:** [Article](https://medium.com/@aseemdandgaval1/mastering-memory-optimization-in-ml-systems-a-deep-dive-into-techniques-for-large-models-2f9438ec02d7)
 
 <br/>
 
@@ -49,7 +49,7 @@ and determine the best fit for the data.
 
 # **Projects**
 
-### MiniLLM | *Python, Pytorch, HuggingFace, tiktoken, Gradio*  | ([GitHub](https://github.com/aseemdandgaval/miniLLM)) | ([Website](https://huggingface.co/spaces/AseemD/gpt2)) 
+**MiniLLM** | *Python, Pytorch, HuggingFace, tiktoken, Gradio*  | ([GitHub](https://github.com/aseemdandgaval/miniLLM)) | ([Website](https://huggingface.co/spaces/AseemD/gpt2)) 
 * Implemented GPT2-14M from scratch and trained on a cluster of 8 × 80GB A100 GPUs on 10 Billion tokens.
 * Used strategies like Mixed Precision Training, Data Distributed Training, etc to optimize training (∼ 3.5 hours).
 * Acheived a lower validation loss and matched the performance of the OpenAI checkpoint on the HellaSwag eval.
